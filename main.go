@@ -1,5 +1,9 @@
 package main
 
+import "learning/cmd"
+
 func main() {
-	Calculate()
+	// Calculate()
+	// Scrap()
+	cmd.Execute()
 }

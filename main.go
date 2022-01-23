@@ -1,6 +1,6 @@
 package main
 
-import "learning/cmd"
+import "github.com/andres15alvarez/learning_go/cmd"
 
 func main() {
 	cmd.Execute()

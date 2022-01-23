@@ -1,4 +1,4 @@
-module learning
+module github.com/andres15alvarez/learning_go
 
 go 1.17
 
